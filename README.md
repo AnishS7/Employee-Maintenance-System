@@ -1,9 +1,8 @@
-# Employee-Maintenance-System
-This is a simple Employee Maintenance System built using Java, with both backend and frontend components. The system allows for the management of employee details such as personal information, job roles, and contact details. It provides features for adding, updating, and deleting employee records.
+# React + Vite
 
-Features
-Add new employee details.
-Update existing employee information.
-Delete employee records.
-Display employee information.
-Simple and user-friendly GUI for interacting with the system.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
